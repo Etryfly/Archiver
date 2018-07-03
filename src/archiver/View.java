@@ -17,7 +17,7 @@ public class View extends JFrame {
         super("Archiver");
         this.controller = controller;
 
-        this.setBounds(100, 100, 450, 150);
+        this.setBounds(100, 100, 400, 150);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Container container = this.getContentPane();

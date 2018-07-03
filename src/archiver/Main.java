@@ -1,7 +1,7 @@
 package archiver;
 
 /**
- * Created by etryfly on 20.06.17.
+ * Дописать разархивацию
  */
 public class Main {
     public static void main(String[] args) {
